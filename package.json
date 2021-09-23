@@ -1,0 +1,13 @@
+{
+  "name": "vercel-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/node": "^1.12.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5",
+    "serverless-mysql": "^1.5.4"
+  },
+  "devDependencies": {
+    "ioredis": "^4.27.9"
+  }
+}
